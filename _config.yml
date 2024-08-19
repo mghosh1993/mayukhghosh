@@ -24,7 +24,7 @@ author:
   avatar           : "Professional_Pic_2.jpg"
   name             : #"Mayukh Ghosh"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Amsterdam Business School"
+  bio              : "PhD Candidate at Business Analytcis Section, Amsterdam Business School"
   location         : #"Earth"
   employer         : "University of Amsterdam"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=wCbC8xsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=wCbC8xsAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"https://orcid.org/0000-0002-5811-0996"
   semantic         : # URL
