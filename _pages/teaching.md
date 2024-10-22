@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
--   **Computer Systems and Engineering - Information and D
-    (CSE-IDM)**, BSc Business Analytics Lecturer, Course-D
-    2024 - Jul 2024
+-   Course: Computer Systems and Engineering - Information and Data Management(CSE-IDM)
+    Program: BSc Business Analytics 
+    Role: Lecturer, Course Designer
+    Apr 2024 - Jul 2024
 
--   **Data Science for Business (DSB)**, MSc Business Admi
+-   Course: Data Science for Business (DSB)**, MSc Business Admi
     Teaching Assistant Nov - Dec, 2020-2023
 
 -   **Information and Data Management (IDM)**, BSc Busines
