@@ -17,7 +17,7 @@ author_profile: true
     data"](https://doi.org/10.1016/j.eswa.2021.114975). Expert Systems
     with Applications (178), p.114975.
 
-## Under Review/ Submitted {#under-review-submitted .unnumbered}
+## Under Review/ Submitted
 
 -   **Ghosh, M.**, Raziei, Z., Amrit, C., Ergun, O., Radhakrishnan, S.,
     Hug, J., Ghoos, K., and Magagi, S.; "Novel Data Analytic Methods to
@@ -34,7 +34,7 @@ author_profile: true
     Resubmit*, Technological Forecasting & Social Change.
 
 
-## In Preparation {#in-preparation .unnumbered}
+## In Preparation
 
 -   **Ghosh, M.**, Amrit, C., Gromicho, J.; "Extending Knowledge Transfer
     in Data Analytics Through Cross-Domain Analysis". (2024+).
@@ -43,7 +43,7 @@ author_profile: true
     Decision Support Tool for Domain-Driven Mobile Clinic Routing: A
     Case Study in Kenya". (2024+).
 
-## Technical Report {#technical-report .unnumbered}
+## Technical Report
 
 -   Ergun, O., Radhakrishnan, S., Hug, J., Raziei, Z., **Ghosh, M.**,
     Amrit, C. (2023); "Novel Data Analytic Methods to Improve Burden
