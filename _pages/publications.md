@@ -5,27 +5,46 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-Reviewed Journals {#peer-reviewed-journals .unnumbered}
+## Peer-Reviewed Journals
 
--   **Ghosh, M.**, Kuiper, A., Mahes, R., and Maragno, D., 2023; [Learn
+-   **Ghosh, M.**, Kuiper, A., Mahes, R., and Maragno, D., 2023; ["Learn
     global and optimize local: A data-driven methodology for last-mile
-    routing](https://doi.org/10.1016/j.cor.2023.106312). Computers &
+    routing"](https://doi.org/10.1016/j.cor.2023.106312). Computers &
     Operations Research (159), p. 106312.
 
--   Emmens, T., Amrit, C., Abdi, A., and **Ghosh, M.**, 2021; [The
+-   Emmens, T., Amrit, C., Abdi, A., and **Ghosh, M.**, 2021; ["The
     promises and perils of Automatic Identification System
-    data](https://doi.org/10.1016/j.eswa.2021.114975). Expert Systems
+    data"](https://doi.org/10.1016/j.eswa.2021.114975). Expert Systems
     with Applications (178), p.114975.
 
+## Under Review/ Submitted {#under-review-submitted .unnumbered}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+-   **Ghosh, M.**, Raziei, Z., Amrit, C., Ergun, O., Radhakrishnan, S.,
+    Hug, J., Ghoos, K., and Magagi, S.; "Novel Data Analytic Methods to
+    Improve Burden Estimates for Wasting". *Revise and Resubmit*, Nature
+    Food.
 
-{% include base_path %}
+-   de Jongh, D., Amrit, C., **Ghosh, M.**, Kuiper, A., van Capelleveen,
+    G., and Huzeyfe, T.; "Reducing Truck Congestion in Landside Air Cargo
+    Processes" *Major Revision*, IEEE Transactions on Engineering
+    Management.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+-   de Jager, J., Amrit, C., **Ghosh, M.**; "#StayAtHome: Antecedents of
+    online persuasion during the COVID-19 pandemic". *Revise and
+    Resubmit*, Technological Forecasting & Social Change.
 
-<sup>*</sup> Equal authorship
+
+## In Preparation {#in-preparation .unnumbered}
+
+-   **Ghosh, M.**, Amrit, C., Gromicho, J.; "Extending Knowledge Transfer
+    in Data Analytics Through Cross-Domain Analysis". (2024+).
+
+-   **Ghosh, M.**, Amrit, C., Gromicho, J., and Brokkelkamp, J.; "A
+    Decision Support Tool for Domain-Driven Mobile Clinic Routing: A
+    Case Study in Kenya". (2024+).
+
+## Technical Report {#technical-report .unnumbered}
+
+-   Ergun, O., Radhakrishnan, S., Hug, J., Raziei, Z., **Ghosh, M.**,
+    Amrit, C. (2023); "Novel Data Analytic Methods to Improve Burden
+    Estimates for Wasting".
