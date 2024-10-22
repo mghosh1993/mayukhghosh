@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+A detailed list of publications can be found [here](https://scholar.google.com/citations?user=wCbC8xsAAAAJ&hl=en).
+
 ## Peer-Reviewed Journals
 
 -   **Ghosh, M.**, Kuiper, A., Mahes, R., and Maragno, D., 2023; ["Learn
@@ -42,9 +44,3 @@ author_profile: true
 -   **Ghosh, M.**, Amrit, C., Gromicho, J., and Brokkelkamp, J.; "A
     Decision Support Tool for Domain-Driven Mobile Clinic Routing: A
     Case Study in Kenya". (2024+).
-
-## Technical Report
-
--   Ergun, O., Radhakrishnan, S., Hug, J., Raziei, Z., **Ghosh, M.**,
-    Amrit, C. (2023); "Novel Data Analytic Methods to Improve Burden
-    Estimates for Wasting".
