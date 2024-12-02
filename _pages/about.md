@@ -17,7 +17,7 @@ My main research interests lie at the intersection of Operations Management (OM)
 
 
 # Contact
-m (dot) ghosh (at) UVA (dot) nl
+m (dot) ghosh (at) uva (dot) nl
 
 
 
